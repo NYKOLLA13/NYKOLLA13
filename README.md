@@ -5,6 +5,6 @@
 - 📫 Instagram: @Nykolla_13
 
 <!---
-NYKOLLA13/NYKOLLA13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ME chamo Nykolla e atualmente estou estudando progamção, espero criar projetos que possam inspirar vocês assim como
+seus projetos me inspiram. Desenvolvedor Front-end
 --->
